@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Potatoes",
+      "price": "98"
+    },
+    {
+      "id": 2,
+      "name": "Shampoo",
+      "price": "130"
+    },
+    {
+      "id": 3,
+      "name": "Beef Tender Loin",
+      "price": "130"
+    },
+    {
+      "id": 4,
+      "name": "Conditioner",
+      "price": "50"
+    },
+    {
+      "id": 5,
+      "name": "Toilet Paper",
+      "price": "100"
+    },
+    {
+      "id": 6,
+      "name": "Butter",
+      "price": "60"
+    },
+    {
+      "id": 7,
+      "name": "Frosted Flakes",
+      "price": "50"
+    },
+    {
+      "id": 8,
+      "name": "Toothpaste",
+      "price": "75"
+    },
+    {
+      "id": 9,
+      "name": "Ibuprofen",
+      "price": "200"
+    },
+    {
+      "id": 10,
+      "name": "Olive Oil",
+      "price": "130"
+    },
+    {
+      "id": 11,
+      "name": "Frozen Carrots",
+      "price": "130"
+    },
+    {
+      "id": 12,
+      "name": "Beef Tender Loin",
+      "price": "250"
+    }
+  ]
+}
+
